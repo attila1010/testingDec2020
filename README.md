@@ -2,4 +2,4 @@
 
 # Using Cleeren course
 # Testing 22Dec - 1254pm
-# Added this after cloning locally the test branch
+# Added this after copying test branch to main 
